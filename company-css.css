@@ -64,7 +64,7 @@ body{margin: 0px;  font-family: "Hiragino Sans GB", "microsoft yahei", helvetica
 .lunbo ul li{float: left;width: 1349px;padding: 0;margin: 0;list-style: none}
 .lunbo ul li .c-logo{margin: 0 auto;display: block;text-align: center}
 .c-logo .logo{position: relative;cursor: pointer;margin: 0px 15px;opacity: 0.8;display: inline-block;width: 170px;height: 170px;}
-.c-logo .logo p.hover-text{display: none;position: absolute;width: 170px;height: 170px;font-size: 16px;text-align: center;padding: 63.5px 5px 0 5px;background-color: #12c3f9;color: #fff}
+.c-logo .logo p.hover-text{display: none;position: absolute;width: 170px;height: 120px;font-size: 16px;text-align: center;padding: 63.5px 5px 0 5px;background-color: #12c3f9;color: #fff}
 .c-logo .img0{background: url("https://snow-assets.b0.upaiyun.com/assets/index/company-logos-e902fa86bbdf436698e4662e80be4aaf.png") 0 0 no-repeat;background-size: 170px}
 .c-logo .img1{background: url("https://snow-assets.b0.upaiyun.com/assets/index/company-logos-e902fa86bbdf436698e4662e80be4aaf.png") 0 -170px no-repeat;background-size: 170px}
 .c-logo .img2{background: url("https://snow-assets.b0.upaiyun.com/assets/index/company-logos-e902fa86bbdf436698e4662e80be4aaf.png") 0 -340px no-repeat;background-size: 170px}
