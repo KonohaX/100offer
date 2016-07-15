@@ -381,6 +381,15 @@
             $('.linkedin-grey').css("display","inline-block");
             $('.linkedin').css("display","none");
         })
+        //轮播logo
+        $(".c-logo .logo").mouseover(function(){
+            $this=$(this);
+            $this.children("p.hover-text").show();
+        })
+        $(".c-logo .logo").mouseout(function(){
+            $this=$(this);
+            $this.children("p.hover-text").hide();
+        })
     })
 </script>
 </body>
